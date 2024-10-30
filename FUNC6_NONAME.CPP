@@ -8,7 +8,7 @@ void nameUser(char name[]){
 int main(){
 	clrscr();
 
-	char firstName[] = "Lance";
+	char firstName[] = "Name";
 	nameUser(firstName);
 
 	return 0;
